@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/baalajirajaraman/.android/build-cache/70031baa18ad0425f82085aefa08a9591a30f7af/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8c9e4853ced472271681cb71b59a8eda3b95372a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/baalajirajaraman/.android/build-cache/70031baa18ad0425f82085aefa08a9591a30f7af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/pre-dexed/debug/classes_9d8057b7de0f2a2f90c79cdb01b4ce613ee5d7a6.jar" />
+    </item>
+
+</items>

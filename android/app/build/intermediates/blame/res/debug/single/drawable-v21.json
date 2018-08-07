@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/baalajirajaraman/.android/build-cache/4c644e39c151d3b27fe86cb7aea60875989180dd/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/baalajirajaraman/.android/build-cache/4c644e39c151d3b27fe86cb7aea60875989180dd/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/baalajirajaraman/.android/build-cache/5275cdad145045f29e2136cc3d2b220c2e7ca4e1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/baalajirajaraman/eGroceries/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/baalajirajaraman/.android/build-cache/4c644e39c151d3b27fe86cb7aea60875989180dd/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
